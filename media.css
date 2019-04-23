@@ -1,0 +1,11 @@
+@media only screen and (max-width: 800px){
+    body, html{
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    body, html{
+        font-size: 9px;
+    }
+}
